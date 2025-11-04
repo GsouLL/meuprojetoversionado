@@ -1,2 +1,4 @@
 for i in range(10):
-    print(123 * i)
+    print('guilherme' * i)
+    print('Este é apenas  um teste que eu fiz')
+    
