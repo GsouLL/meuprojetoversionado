@@ -1,1 +1,2 @@
-print(Verificar se aparece para o outro usuário conforme esperado )
+
+print('Deu certo bruxo você é zika!')
